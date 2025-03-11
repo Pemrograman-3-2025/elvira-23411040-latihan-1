@@ -1,0 +1,59 @@
+.tombol-kembali {
+    border: 1px solid rgb(16, 126, 97);
+    color: black;
+    background-color: rgb(156, 172, 37);
+   /*     top right bottom left  */
+   /* border-radius:4px 4px 4px 4px; */
+   /* border-radius:4px px; */
+    border-radius: 4px 0px 4px 0px;
+
+    /*margin:4px 10px 4px 10px; */
+    /*margin: 4px 10px; */
+    /*margin 4px; */
+    margin-bottom: 6px;
+
+    padding: 6px 10px 6px 10px;
+
+}
+  .tombol-input{
+    border: 1px solid rgb(16, 126, 97);
+    background-color: rgb(156, 172, 37);
+    border-radius: 8px 8px 8px 8px;
+    margin-bottom: 6px;
+    padding: 6px 10px 6px 10px;
+  }
+
+   /*hover */
+   .tombol-input:hover {
+    background-color: rgb(23, 74, 151);
+
+   }
+   .my-table {
+    color:rgb(59, 92, 59);
+    border-collapse: collapse;
+   }
+   .my-table th,td{
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+   }
+
+   tr:hover {
+    background-color: #ebebeb;
+   }
+
+   .buttonedit {
+    border: 1px solid rgb(16, 126, 97);
+    background-color: rgb(156, 172, 37);
+    border-radius: 8px 8px 8px 8px;
+    margin-bottom: 6px;
+    padding: 6px 10px 6px 10px;
+   }
+
+   .buttonhapus {
+    border: 1px solid rgb(16, 126, 97);
+    background-color: rgb(156, 172, 37);
+    border-radius: 8px 8px 8px 8px;
+    margin-bottom: 6px;
+    padding: 6px 10px 6px 10px;
+   }
