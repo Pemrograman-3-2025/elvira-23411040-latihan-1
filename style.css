@@ -15,6 +15,11 @@
     padding: 6px 10px 6px 10px;
 
 }
+
+.tombol-kembali:hover {
+  background-color: rgb(23, 74, 151);
+
+}
   .tombol-input{
     border: 1px solid rgb(16, 126, 97);
     background-color: rgb(156, 172, 37);
@@ -22,6 +27,7 @@
     margin-bottom: 6px;
     padding: 6px 10px 6px 10px;
   }
+  
 
    /*hover */
    .tombol-input:hover {
@@ -49,6 +55,9 @@
     margin-bottom: 6px;
     padding: 6px 10px 6px 10px;
    }
+    .buttonedit:hover{
+    background-color: #28206f;
+   }
 
    .buttonhapus {
     border: 1px solid rgb(16, 126, 97);
@@ -56,4 +65,7 @@
     border-radius: 8px 8px 8px 8px;
     margin-bottom: 6px;
     padding: 6px 10px 6px 10px;
+   }
+   .buttonhapus:hover {
+    background-color: #28206f;
    }
